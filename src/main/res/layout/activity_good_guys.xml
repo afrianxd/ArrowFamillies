@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GoodGuysActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_tambah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_up="@id/nama_app"
+        android:layout_centerHorizontal="true"
+        android:text="Tambah Data" />
+
+    <Button
+        android:id="@+id/txtAmanda"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button_tambah"
+        android:layout_centerHorizontal="true"
+        android:text="Amanda Waller"
+        android:layout_weight="0.97"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Amanda Waller"
+        android:id="@+id/txtAmandaa"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Connor Hawke"
+        android:id="@+id/txtConnor"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Curtis Holt"
+        android:id="@+id/txtCurtis"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dinah Drake"
+        android:id="@+id/txtDinahDrake"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dinah Lance"
+        android:id="@+id/txtDinahLance"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Donna Smoak"
+        android:id="@+id/txtDonna"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Felicity Smoak"
+        android:id="@+id/txtFelicity"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="John Diggle"
+        android:id="@+id/txtJohnDIggle"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="John Thomas"
+        android:id="@+id/txtJohnThomas"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Kazumi Adachi"
+        android:id="@+id/txtKazumiAdachi"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Laurel Lance (Earth 1)"
+        android:id="@+id/txtLaurelLance"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Lyla Michaels"
+        android:id="@+id/txtLylaMichael"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mia Smoak"
+        android:id="@+id/txtMiaSmoak"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Moira Queen"
+        android:id="@+id/txtMoiraQueen"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nyssa"
+        android:id="@+id/txtNyssa"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Oliver Queen"
+        android:id="@+id/txtOliverQueen"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Quentin Lance"
+        android:id="@+id/txtQuentinLance"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ray Palmer"
+        android:id="@+id/txtRayPalmer"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rene Ramirez"
+        android:id="@+id/txtReneRamirez"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Robert Queen"
+        android:id="@+id/txtRobertQueen"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Roy Harper"
+        android:id="@+id/txtRoyHarper"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sara Lance"
+        android:id="@+id/txtSaraLance"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Shado"
+        android:id="@+id/txtShado"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Tatsu Yamashiro"
+        android:id="@+id/txtTatsuYamashiro"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Thea Queen"
+        android:id="@+id/txtTheaQueen"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Tommy Merlyn"
+        android:id="@+id/txtTommyMerlyn"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Walter Steele"
+        android:id="@+id/txtWalterSteele"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="WilliamClayton"
+        android:id="@+id/txtWilliamClayton"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Yao Fei"
+        android:id="@+id/txtYaoFei"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Zoe Ramirez"
+        android:id="@+id/txtZoeRamirez"
+        android:contentDescription="@string/txt_search"
+        android:layout_weight="1"
+        android:scaleType="centerCrop" />
+
+
+
+</LinearLayout>
+

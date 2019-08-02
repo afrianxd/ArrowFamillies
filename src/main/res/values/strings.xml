@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Arrow Famillies</string>
+    <string name="txt_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ArrowHome">
+    "Arrow adalah serial televisi superhero Amerika yang dikembangkan oleh Greg Berlanti, Marc Guggenheim, dan Andrew Kreisberg"
+ "berdasarkan karakter DC Comics Green Arrow, seorang pejuang kriminal berkostum yang diciptakan oleh Mort Weisinger dan George Papp,"
+ "dan berlatar di Arrowverse, yang tersambung dengan serial televisi Arrowverse lainnya."
+ "Serial ini ditayangkan perdana di Amerika Serikat pada The CW pada 10 Oktober 2012,"
+ "dengan penyiaran internasional berlangsung pada akhir 2012 dan terutama difilmkan di Vancouver, British Columbia, Kanada."
+ "Arrow mengikuti playboy miliarder Oliver Queen (Stephen Amell), yang mengaku telah menghabiskan lima tahun terdampar di Lian Yu,"
+ "sebuah pulau misterius di Laut Cina Utara, sebelum kembali ke rumah ke Starling City (kemudian berganti nama menjadi "Star City")"
+ "untuk memerangi kejahatan dan korupsi sebagai main hakim sendiri rahasia yang senjata pilihannya adalah busur dan anak panah."
+
+    "Serial ini mengambil tampilan baru pada karakter Panah Hijau, serta karakter lain dari alam semesta DC Comics."
+ "Meskipun Oliver Queen / Green Arrow telah tampil dalam serial televisi Smallville dari 2006 hingga 2011, di The CW,"
+ "para produser memutuskan untuk mulai membersihkan dan menemukan aktor baru untuk memerankan karakter tersebut."
+ "Arrow berfokus pada kemanusiaan Oliver Queen, dan bagaimana ia diubah pada 5 tahun ia mungkin karam di sebuah pulau."
+ "Sebagian besar episode dalam lima season pertama memiliki adegan kilas balik selama lima tahun di mana Oliver hilang."
+ "Selama season tujuh, adegan kilat ke depan dua puluh tahun ke depan fokus pada anak-anak Oliver, William dan Mia."
+
+"Arrow telah menerima ulasan positif dari para kritikus."
+ "Serial ini rata-rata sekitar 3,68 juta pemirsa selama musim pertama dan menerima beberapa penghargaan dan beberapa nominasi."
+ "Untuk mempromosikannya, sebuah buku komik pratinjau dirilis sebelum serial televisi dimulai,"
+ "sementara web episodes yang menampilkan ikatan produk dengan Bose dikembangkan untuk musim kedua."
+ "Enam musim pertama tersedia dalam DVD dan Blu-ray di wilayah 1, 2 dan 4; serangkaian soundtrack juga dirilis"
+
+"Pada Oktober 2014, serial TV spin-off berjudul The Flash perdana."
+ "Ini adalah perluasan pertama dari alam semesta bersama yang akan dikenal sebagai "Arrowverse"."
+ "Flash kemudian diikuti pada 2015 dengan Vixen dan Supergirl, pada 2016 dengan Legends of Tomorrow,"
+ "pada 2017 dengan Freedom Fighters: The Ray, dan pada 2019 dengan Batwoman,"
+ "yang semuanya merupakan bagian dari alam semesta bersama yang sama."
+
+"Musim ketujuh perdana pada 15 Oktober 2018, dan berakhir pada 13 Mei 2019, dengan total 22 episode."
+ "Pada 2019, 160 episode telah disiarkan."
+ "Pada Januari 2019, CW memperbarui seri untuk musim kedelapan, yang dijadwalkan tayang perdana pada 15 Oktober 2019."
+ "Pada bulan Maret, diumumkan bahwa ini akan menjadi musim terakhir dari seri tersebut,"
+ "yang terdiri dari sepuluh episode yang akan berkontribusi pada acara crossover "Crisis on Infinite Earths"."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_arrow">Arrow</string>
+</resources>
